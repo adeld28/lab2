@@ -1,0 +1,50 @@
+{
+    "chart_title": "Suits Episodes per Season",
+    "data_points": [
+        {
+            "label": "Season 1",
+            "value": 12,
+            "year": 2011
+        },
+        {
+            "label": "Season 2",
+            "value": 16,
+            "year": 2012
+        },
+        {
+            "label": "Season 3",
+            "value": 16,
+            "year": 2013
+        },
+        {
+            "label": "Season 4",
+            "value": 16,
+            "year": 2014
+        },
+        {
+            "label": "Season 5",
+            "value": 16,
+            "year": 2015
+        },
+        {
+            "label": "Season 6",
+            "value": 16,
+            "year": 2016
+        },
+        {
+            "label": "Season 7",
+            "value": 16,
+            "year": 2017
+        },
+        {
+            "label": "Season 8",
+            "value": 16,
+            "year": 2018
+        },
+        {
+            "label": "Season 9",
+            "value": 10,
+            "year": 2019
+        }
+    ]
+}
